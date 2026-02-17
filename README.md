@@ -1,6 +1,6 @@
 # screenshot-to-claude
 
-> **Quick tip:** You can just use **Cmd+Shift+4** to take a screenshot, then **Ctrl+V** to paste the path directly into Claude Code. No extra setup needed. Try this first before setting up the script below.
+> **Quick tip:** You can just use **Cmd+Control+Shift+4** to take a screenshot, then **Ctrl+V** to paste the path directly into Claude Code. No extra setup needed. Try this first before setting up the script below.
 
 Take a screenshot on macOS and paste the file path directly into [Claude Code](https://docs.anthropic.com/en/docs/claude-code) (or any terminal-based AI tool).
 
